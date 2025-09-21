@@ -1,0 +1,27 @@
+{
+  "name": "uptime-monitor",
+  "version": "1.0.0",
+  "description": "Simple Node.js uptime monitor with MongoDB and dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "uptime",
+    "monitor",
+    "nodejs",
+    "mongodb",
+    "express"
+  ],
+  "author": "SirTheProgrammer",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.0",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
