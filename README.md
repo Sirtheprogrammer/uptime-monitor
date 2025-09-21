@@ -18,7 +18,7 @@ This bot pings your added URLs every **3 seconds**, logs their status (UP/DOWN),
 
 ## 🛠️ Tech Stack
 
-| Technology | Icon |
+| Technology | x |
 |------------|------|
 | **Node.js** | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) |
 | **Express.js** | ![Express](https://img.icons8.com/ios/50/000000/express-js.png) |
